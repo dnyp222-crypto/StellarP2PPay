@@ -65,6 +65,9 @@ Refund locked funds back to sender.
 - Transaction history
 - Multi-user escrow system
 - AI-based fraud detection
+  
+<img width="1895" height="884" alt="image" src="https://github.com/user-attachments/assets/a9bcc610-c794-4061-9fed-d650add4146d" />
+
 
 ---
 
